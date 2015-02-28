@@ -1,0 +1,8 @@
+com.bcsg.common
+com.bcsg.exception
+com.bcsg.helper
+com.bcsg.model
+com.bcsg.servlet
+test.com.bcsg.common
+test.com.bcsg.helper
+test.com.bcsg.model
