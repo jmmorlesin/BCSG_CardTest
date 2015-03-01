@@ -10,7 +10,6 @@ import java.text.ParseException;
  */
 public class CardHelper {
 
-    //About the different format allowed in
     private static final int MIN_LENGTH_CARD_NUMBER = 4;
 
     /**

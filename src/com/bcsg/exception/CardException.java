@@ -1,7 +1,8 @@
 package com.bcsg.exception;
 
 /**
- * Created by Jose on 28/02/2015.
+ * Controlled exception with cards
+ * @author Jose M. Morlesin
  */
 public class CardException extends Exception {
     public CardException() {

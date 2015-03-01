@@ -4,8 +4,8 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * Main model to the test
- * Created by Jose on 27/02/2015.
+ * Main model to the application
+ * @author Jose M. Morlesin
  */
 public class Card implements Comparable<Card>, Serializable{
     private String bank;
