@@ -1,12 +1,13 @@
 package com.bcsg.model;
 
+import java.io.Serializable;
 import java.util.Date;
 
 /**
  * Main model to the test
  * Created by Jose on 27/02/2015.
  */
-public class Card implements Comparable<Card>{
+public class Card implements Comparable<Card>, Serializable{
     private String bank;
     private String cardNumber;
     private Date expiryDate;
