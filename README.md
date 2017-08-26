@@ -18,3 +18,5 @@ Locations
 * You can find the test in: /src/test
 * JavaDoc generated in /doc
 * And you have a War prepared to deploy in /out/artifacts/BCSG_CardTest_war/
+
+Added the generated war in the repository as a condition of the test. It is not a good practice commit binaries or generated files to the repository
